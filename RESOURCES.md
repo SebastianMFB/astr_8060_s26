@@ -52,8 +52,8 @@ Vanderbilt University <br>
 
 ### Week 11
 [Landolt (1992)](https://ui.adsabs.harvard.edu/abs/1992AJ....104..340L/abstract) <br>
-[Aperture photometry with photutils](https://photutils.readthedocs.io/en/stable/aperture.html) <br>
-[Source detection with photutils](https://photutils.readthedocs.io/en/stable/detection.html) <br>
+[Aperture photometry with photutils](https://photutils.readthedocs.io/en/latest/user_guide/aperture.html) <br>
+[Source detection with photutils](https://photutils.readthedocs.io/en/latest/user_guide/detection.html) <br>
 [Review of photometric standards](https://www.annualreviews.org/doi/abs/10.1146/annurev.astro.41.082801.100251) <br>
 [imexam description](https://imexam.readthedocs.io/en/latest/imexam/description.html) <br>
 [imexam walkthrough](https://imexam.readthedocs.io/en/0.9.1/imexam/walkthrough.html) <br>

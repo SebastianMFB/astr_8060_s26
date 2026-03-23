@@ -1,0 +1,8 @@
+Science Case:
+Time based photometry of an RR Lyrae variable star to measure pulsation period and amplitude.
+
+Observatory / Instrument:
+Las Cumbres Observatory Global Telescope Network (LCO), optical imaging.
+
+Description:
+Repeated photometric measurements of a bright RR Lyrae star will be used to construct a light curve and determine the pulsation period and amplitude.

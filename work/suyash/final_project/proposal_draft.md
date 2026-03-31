@@ -1,1 +1,0 @@
-You can find my proposal draft here: [https://www.overleaf.com/5177399854vcbzzcxbdnww#fbcf22](https://www.overleaf.com/5177399854vcbzzcxbdnww#fbcf22)

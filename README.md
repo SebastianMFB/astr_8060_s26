@@ -36,6 +36,10 @@ Vanderbilt University <br>
 | R 26                        | Diffraction and interference                                   |[[notes]](./notes/ASTR8060_notes_diffraction.pdf)[[links]](RESOURCES.md#week-12) Chromey Ch. 11 |
 | T 31                        | Spectrographs                                                  |[[notes]](./notes/ASTR8060_notes_spectrographs.pdf)[[links]](RESOURCES.md#week-13) |
 | <ins>April</ins><br> R 2    | Spectrograph example                                           |[[notes]](./notes/ASTR8060_notes_spectrographs.pdf)[[links]](RESOURCES.md#week-13) Chromey Ch. 11 |
+| T 7                         | Proposal/HW6 work                                              ||
+| R 9                         | Proposal/HW6 work                                              ||
+| T 14                        | Time Allocation Committees                                     |[[notes]](./final/noirlab_tac_intro.pdf)[[links]](RESOURCES.md#week-15)|
+| R 16                        | Panel Review                                                   ||
 <!-- Upcoming activities are commented out
 | T 24                        | Photometric standards                                          |[[notes]](./notes/ASTR8060_notes_standards.pdf)[[links]](RESOURCES.md#week-12) Chromey Ch. 10 |
 | R 26                        | Observing proposal lab                                         |[[notes]](./notebooks/observing_proposal_preparation.ipynb)[[links]](RESOURCES.md#week-12)|
